@@ -1,5 +1,5 @@
 """
-is an ordered collection of item
+is an  unordered collection of item
 
 we use curly braces{}
 """
